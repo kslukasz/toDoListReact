@@ -8,10 +8,10 @@ body{
   display: flex; 
   justify-content: center;  
   /* align-items: stretch;  */
-  padding: 10px;  
+  padding: 10px;    
   flex-direction: column;  
   margin: 20px auto;    
-  width: 95%;
+  width: 90%;
   /* min-width: 620px; */
   max-width: 620px;
   border-radius: 4px;  
@@ -19,7 +19,7 @@ body{
 }
 /* title */
 .title{
-  width:95%;
+  width:90%;
   display: flex;
   flex-direction: row;
   /* min-width: 270px; */
